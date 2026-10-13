@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/checkwesteurope/repo/_apis/build/status%2Fsheetalsk1703.pipelines-java?branchName=main)](https://dev.azure.com/checkwesteurope/repo/_build/latest?definitionId=17&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
